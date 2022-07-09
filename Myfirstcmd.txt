@@ -1,2 +1,3 @@
 # DEVOP1
  change file stage area
+If you're writing a code init your commit
